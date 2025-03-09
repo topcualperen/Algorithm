@@ -12,7 +12,7 @@
 
 | Problem No | Problem Adı                                        | Çözüm Kodu                                                               | 
 |------------|----------------------------------------------------|--------------------------------------------------------------------------|
-| 2011       | Final Value of Variable After Performing Operations| [Java](leetcode\2011_FinalValueofVariableAfterPerformingOperations.java) |
+| 2011       | Final Value of Variable After Performing Operations| [Java](leetcode/2011_FinalValueofVariableAfterPerformingOperations.java) |
 | 125        | Valid Palindrome                                   | [Java](leetcode\125_ValidPalindrome.java)                                |
 | 13         | Roman to Integer                                   | [Java](leetcode\13_RomantoInteger.java)                                  |
 | 1768       | Merge Strings Alternately                          | [Java](leetcode\1768_MergeStringsAlternately.java)                       |
