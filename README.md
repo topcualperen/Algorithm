@@ -4,10 +4,6 @@
 - [Çözülen Problemler](#-çözülen-problemler)
 - [Kullanılan Teknolojiler](#-kullanılan-teknolojiler)
 
-- [Katkıda Bulunma](#-katkıda-bulunma)
-- [Lisans](#-lisans)
-- [İletişim](#-iletişim)
-
 ## 🧩 Çözülen Problemler
 
 | Problem No | Problem Adı                                        | Çözüm Kodu                                                               | 
@@ -22,6 +18,7 @@
 | 2215       | Find the Difference of Two Arrays                  | [Java](leetcode/2215_FindtheDifferenceofTwoArrays.java)                  |
 | 26         | Remove Duplicates from Sorted Array                | [Java](leetcode/26_RemoveDuplicatesfromSortedArray.java)                 |
 | 9          | Palindrome Number                                  | [Java](leetcode/9_PalindromeNumber.java)                                 |
+| 876        | Middle of the Linked List                          | [Java](leetcode/876_MiddleoftheLinkedList.java) |
 
 ## 🛠️ Kullanılan Teknolojiler
 - **Diller:** Java
