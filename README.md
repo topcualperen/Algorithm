@@ -20,7 +20,7 @@
 | 9          | Palindrome Number                                  | [Java](leetcode/9_PalindromeNumber.java)                                 |
 | 876        | Middle of the Linked List                          | [Java](leetcode/876_MiddleoftheLinkedList.java)                          |
 |2114        | Maximum Number of Words Found in Sentences         | [Java](leetcode/2114_MaximumNumberofWordsFoundinSentences.java)          |
-
+|1108        | Defanging an IP Address                            | [Java](leetcode/1108_DefanginganIPAddress.java)                          |
 ## 🛠️ Kullanılan Teknolojiler
 - **Diller:** Java
 - **Araçlar:** Visual Studio Code, Git
