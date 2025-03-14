@@ -22,6 +22,7 @@
 | 2114       | Maximum Number of Words Found in Sentences         | [Java](leetcode/2114_MaximumNumberofWordsFoundinSentences.java)          |
 | 1108       | Defanging an IP Address                            | [Java](leetcode/1108_DefanginganIPAddress.java)                          |
 | 58         | Length of Last Word                                | [Java](leetcode/58_LengthofLastWord.java)                                |
+| 169        | Majority Element                                   | [Java](leetcode/169_MajorityElement.java)                                |
 ## 🛠️ Kullanılan Teknolojiler
 - **Diller:** Java
 - **Araçlar:** Visual Studio Code, Git
