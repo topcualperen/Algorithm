@@ -41,7 +41,7 @@
 
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
-|            | | |
+| 1              | Fibonacci Sequence                                  | [Java](other/Fibonacci.java)                                             |
 
 ### Other
 
