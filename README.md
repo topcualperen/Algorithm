@@ -16,8 +16,6 @@
 - [HackerRank](#-hackerrank)
 - [Other](#-other)
 
----
-
 ### LeetCode
 
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
@@ -38,8 +36,6 @@
 | 58             | Length of Last Word                                 | [Java](leetcode/58_LengthofLastWord.java)                                |
 | 169            | Majority Element                                    | [Java](leetcode/169_MajorityElement.java)                                |
 
----
-
 ### HackerRank
 
 
@@ -47,10 +43,7 @@
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
 |            | | |
 
----
-
 ### Other
-
 
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
