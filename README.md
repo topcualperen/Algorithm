@@ -1,6 +1,6 @@
 # Algorithm Problem Solutions Repository 🚀
 
-📚 **A structured collection of solutions** to problems from LeetCode, HackerRank, and other platforms.
+📚 **Algorithms and solutions (open to improvement). I’m open to support and suggestions.
 
 ---  
 
