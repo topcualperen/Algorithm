@@ -68,5 +68,5 @@
 ---
 
 ## 📬 Contact
-- **GitHub**: [@topcualperen](https://github.com/topcualperen)
-- **Linkedin**: (https://www.linkedin.com/in/sabri-alperen-topcu/)  
+- **GitHub**: [GitHub](https://github.com/topcualperen)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/sabri-alperen-topcu/)  
