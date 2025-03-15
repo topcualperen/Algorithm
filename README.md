@@ -36,14 +36,14 @@
 | 58             | Length of Last Word                                 | [Java](leetcode/58_LengthofLastWord.java)                                |
 | 169            | Majority Element                                    | [Java](leetcode/169_MajorityElement.java)                                |
 
-### HackerRank
+### Other
 
 
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
 | 1              | Fibonacci Sequence                                  | [Java](other/Fibonacci.java)                                             |
 
-### Other
+### HackerRank
 
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
