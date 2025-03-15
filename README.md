@@ -1,6 +1,6 @@
 # Algorithm Problem Solutions Repository 🚀
 
-📚 **Algorithms and solutions (open to improvement). I’m open to support and suggestions.
+📚 **Algorithms and solutions (open to improvement). I’m open to support and suggestions.**
 
 ---  
 
