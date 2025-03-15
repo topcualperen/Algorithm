@@ -12,9 +12,9 @@
 ---
 
 ## 🧩 Algorithms
-- [LeetCode](#-leetcode)
-- [HackerRank](#-hackerrank)
-- [Other](#-other)
+- [LeetCode](#leetcode)
+- [HackerRank](#hackerrank)
+- [Other](#other)
 
 ### LeetCode
 
