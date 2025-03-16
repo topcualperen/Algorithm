@@ -42,6 +42,7 @@
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
 | 1              | Fibonacci Sequence                                  | [Java](other/Fibonacci.java)                                             |
+| 2              | Is Prime                                            | [Java](other/Prime.java)                                                                 |  
 
 ### HackerRank
 
