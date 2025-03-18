@@ -37,6 +37,7 @@
 | 169            | Majority Element                                    | [Java](leetcode/169_MajorityElement.java)                                |
 | 268            | Missing Number                                      | [Java](leetcode/268_MissingNumber.java)                                  |
 | 217            | Contains Duplicate                                  | [Java](leetcode/217_ContainsDuplicate.java)                              |
+| 136            | Single Number                                       | [Java](leetcode/136_SingleNumber.javaleetcode/136_SingleNumber.java)     |
 
 ### Other
 
