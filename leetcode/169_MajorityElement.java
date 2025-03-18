@@ -1,7 +1,17 @@
 class Solution {
     public int majorityElement(int[] nums) {
         
-        Arrays.sort(nums);
-        return nums[nums.length/2];
+        // Boyer Moore
+
+        int result = 0;
+        int counter = 0;
+
+        for (int i : nums){
+
+            if (counter == 0) result = i;
+            if (result == i) counter ++;
+            else counter --;
+        }
+        return result;
     }
 }
