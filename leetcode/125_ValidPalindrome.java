@@ -1,15 +1,13 @@
 class Solution {
     public boolean isPalindrome(String s) {
         
-        String cleanS = s.replaceAll("[\\s\\p{Punct}]", "").toLowerCase();
-        
-        String reverseWord = "";
+        if (s.length() == 1) return true;
 
-        for (int i = cleanS.length() - 1; i >= 0; i--){
-            reverseWord += cleanS.charAt(i);
-        }
+        String newString = s.replaceAll("[\\s\\p{Punct}]", "").toLowerCase();
 
-        if (reverseWord.equals(cleanS)) return true;
+        StringBuilder sb = new StringBuilder(newString);
+
+        if (newString.equals(sb.reverse().toString())) return true;
         else return false;
     }
 }
