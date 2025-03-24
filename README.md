@@ -39,6 +39,7 @@
 | 217            | Contains Duplicate                                  | [Java](leetcode/217_ContainsDuplicate.java)                              |
 | 136            | Single Number                                       | [Java](leetcode/136_SingleNumber.java)                                   |
 | 682            | Baseball Game                                       | [Java](leetcode/682_BaseballGame.java)                                   |
+| 83             | Remove Duplicates from Sorted List                  | [Java](leetcode/83_RemoveDuplicatesfromSortedList.java)                  |
 
 ### Other
 
