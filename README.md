@@ -41,6 +41,7 @@
 | 682            | Baseball Game                                       | [Java](leetcode/682_BaseballGame.java)                                   |
 | 83             | Remove Duplicates from Sorted List                  | [Java](leetcode/83_RemoveDuplicatesfromSortedList.java)                  |
 | 19             | Remove Nth Node From End of List                    | [Java](leetcode/19_RemoveNthNodeFromEndofList.java)                      |
+| 160            | Intersection of Two Linked Lists                    | [Java](leetcode/160_IntersectionofTwoLinkedLists.java)                   |
 
 ### Other
 
