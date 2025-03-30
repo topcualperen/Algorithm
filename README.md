@@ -57,6 +57,10 @@
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
 | 1              | Java String Reverse                                 | [Java](hackerrank/Solution.java)                                         |
+| 2              | A Very Big Sum                                      | [Java](hackerrank/AVeryBigSum.java)                                      |
+| 3              | Compare the Triplets                                | [Java](hackerrank/ComparetheTriplets.java)                               |
+| 4              | Simple Array Sum                                    | [Java](hackerrank/SimpleArraySum.java)                                   |
+| 5              | Solve Me First                                      | [Java](hackerrank/SolveMeFirst.java)                                     |
 
 ---
 
