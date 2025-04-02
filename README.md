@@ -63,6 +63,7 @@
 | 3              | Compare the Triplets                                | [Java](hackerrank/ComparetheTriplets.java)                               |
 | 4              | Simple Array Sum                                    | [Java](hackerrank/SimpleArraySum.java)                                   |
 | 5              | Solve Me First                                      | [Java](hackerrank/SolveMeFirst.java)                                     |
+| 6              | Staircase                                           | [Java](hackerrank/Staircase.java)                                        |
 
 ---
 
