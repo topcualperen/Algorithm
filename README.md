@@ -53,6 +53,7 @@
 | 3              | Variable Substitution                               | [Java](other/VariableSubstitution.java)                                  |
 | 4              | Left Based Triangle                                 | [Java](other/LeftBasedTriangle.java)                                     |
 | 5              | Right Based Triangle                                | [Java](other/RightBasedTriangle.java)                                    |
+| 6              | Largest Two Numbers                                 | [Java](other/claude/LargestTwoNumbers.java)                              |
 
 ### HackerRank
 
