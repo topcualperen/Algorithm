@@ -67,7 +67,7 @@
 | 4              | Simple Array Sum                                    | [Java](hackerrank/SimpleArraySum.java)                                   |
 | 5              | Solve Me First                                      | [Java](hackerrank/SolveMeFirst.java)                                     |
 | 6              | Staircase                                           | [Java](hackerrank/Staircase.java)                                        |
-| 7              | Mini-Max Sum                                        | [Java](hackerrank/MiniMaxSum.java)                                       |
+| 7              | Mini - Max Sum                                        | [Java](hackerrank/MiniMaxSum.java)                                       |
 
 ---
 
