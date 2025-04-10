@@ -10,7 +10,6 @@ public class StringReversal {
 
     public static void main(String[] args){
         
-        String word = "Hello World";
-        System.out.println("Reversed Word: " + reverseString(word));
+        System.out.println("Reversed Word: " + reverseString(new String("Hello World")));
     }
 }
