@@ -57,7 +57,7 @@
 | 7              | String Reversal                                     | [Java](other/claude/StringReversal.java)                                 |
 | 8              | The Largest Element in Array                        | [Java](other/deepseek/TheLargestElementInArray.java)                     |
 | 9              | FizzBuzz                                            | [Java](other/deepseek/FizzBuzz.java)                                     |
-| 10             | Intersection Of Two Arrays                          | [Java](other/claude/IntersectionOfTwoArrays.java)                        |
+| 10             | Intersection of Two Arrays                          | [Java](other/claude/IntersectionOfTwoArrays.java)                        |
 
 ### HackerRank
 
