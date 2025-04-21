@@ -58,6 +58,7 @@
 | 8              | The Largest Element in Array                        | [Java](other/deepseek/TheLargestElementInArray.java)                     |
 | 9              | FizzBuzz                                            | [Java](other/deepseek/FizzBuzz.java)                                     |
 | 10             | Intersection of Two Arrays                          | [Java](other/claude/IntersectionOfTwoArrays.java)                        |
+| 11             | Find The First Repeated Element                     | [Java](other/claude/FindTheFirstRepeatedElement.java)                    |
 
 ### HackerRank
 
