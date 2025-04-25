@@ -1,4 +1,3 @@
-
 public class Prime{
     
     private static boolean isPrime(int number){
