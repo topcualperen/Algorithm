@@ -1,17 +1,18 @@
 class Solution {
     public int majorityElement(int[] nums) {
         
-        // Boyer Moore
+        // Boyer–Moore majority vote algorithm
 
-        int result = 0;
-        int counter = 0;
+        int candidate = 0;
+        int count = 0;
 
-        for (int i : nums){
+        for (int num : nums){
 
-            if (counter == 0) result = i;
-            if (result == i) counter ++;
-            else counter --;
+            if (count == 0) candidate = num;
+            if (candidate == num) count ++;
+            else count --;
         }
-        return result;
+
+        return candidate;
     }
 }
