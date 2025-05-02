@@ -21,8 +21,8 @@
 | Problem Number | Problem Name                                        | Solution Code                                                                                                                                     | 
 |----------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2011           | Final Value of Variable After Performing Operations | [Java](leetcode/2011_FinalValueofVariableAfterPerformingOperations.java) [Python](leetcode/2011_FinalValueofVariableAfterPerformingOperations.py) |
-| 125            | Valid Palindrome                                    | [Java](leetcode/125_ValidPalindrome.java)                                |
-| 13             | Roman to Integer                                    | [Java](leetcode/13_RomantoInteger.java)                                  |
+| 125            | Valid Palindrome                                    | [Java](leetcode/125_ValidPalindrome.java) [Python](leetcode/125_ValidPalindrome.py)                                                               |
+| 13             | Roman to Integer                                    | [Java](leetcode/13_RomantoInteger.java) [Python](leetcode/13_RomantoInteger.py)                                                                   |
 | 1768           | Merge Strings Alternately                           | [Java](leetcode/1768_MergeStringsAlternately.java)                       |
 | 1929           | Concatenation of Array                              | [Java](leetcode/1929_ConcatenationofArray.java)                          |
 | 1              | Two Sum                                             | [Java](leetcode/1_TwoSum.java)                                           |
