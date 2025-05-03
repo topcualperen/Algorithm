@@ -23,7 +23,7 @@
 | 2011           | Final Value of Variable After Performing Operations | [Java](leetcode/2011_FinalValueofVariableAfterPerformingOperations.java) [Python](leetcode/2011_FinalValueofVariableAfterPerformingOperations.py) |
 | 125            | Valid Palindrome                                    | [Java](leetcode/125_ValidPalindrome.java) [Python](leetcode/125_ValidPalindrome.py)                                                               |
 | 13             | Roman to Integer                                    | [Java](leetcode/13_RomantoInteger.java) [Python](leetcode/13_RomantoInteger.py)                                                                   |
-| 1768           | Merge Strings Alternately                           | [Java](leetcode/1768_MergeStringsAlternately.java)                       |
+| 1768           | Merge Strings Alternately                           | [Java](leetcode/1768_MergeStringsAlternately.java) [Python](leetcode/1768_MergeStringsAlternately.py)                                             |
 | 1929           | Concatenation of Array                              | [Java](leetcode/1929_ConcatenationofArray.java)                          |
 | 1              | Two Sum                                             | [Java](leetcode/1_TwoSum.java)                                           |
 | 20             | Valid Parentheses                                   | [Java](leetcode/20_ValidParentheses.java)                                |
@@ -34,7 +34,7 @@
 | 2114           | Maximum Number of Words Found in Sentences          | [Java](leetcode/2114_MaximumNumberofWordsFoundinSentences.java)          |
 | 1108           | Defanging an IP Address                             | [Java](leetcode/1108_DefanginganIPAddress.java) [Python](leetcode/1108_Defanging_An_IP_Address.py)                                                |
 | 58             | Length of Last Word                                 | [Java](leetcode/58_LengthofLastWord.java)                                |
-| 169            | Majority Element                                    | [Java](leetcode/169_MajorityElement.java)                                |
+| 169            | Majority Element                                    | [Java](leetcode/169_MajorityElement.java) [Python](leetcode/169_MajorityElement.py)                                                               |
 | 268            | Missing Number                                      | [Java](leetcode/268_MissingNumber.java)                                  |
 | 217            | Contains Duplicate                                  | [Java](leetcode/217_ContainsDuplicate.java)                              |
 | 136            | Single Number                                       | [Java](leetcode/136_SingleNumber.java)                                   |
