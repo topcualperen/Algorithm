@@ -24,7 +24,7 @@
 | 125            | Valid Palindrome                                    | [Java](leetcode/125_ValidPalindrome.java) [Python](leetcode/125_ValidPalindrome.py)                                                               |
 | 13             | Roman to Integer                                    | [Java](leetcode/13_RomantoInteger.java) [Python](leetcode/13_RomantoInteger.py)                                                                   |
 | 1768           | Merge Strings Alternately                           | [Java](leetcode/1768_MergeStringsAlternately.java) [Python](leetcode/1768_MergeStringsAlternately.py)                                             |
-| 1929           | Concatenation of Array                              | [Java](leetcode/1929_ConcatenationofArray.java)                          |
+| 1929           | Concatenation of Array                              | [Java](leetcode/1929_ConcatenationofArray.java) [Python](leetcode/1929_ConcatenationofArray.py)                                                   |
 | 1              | Two Sum                                             | [Java](leetcode/1_TwoSum.java)                                           |
 | 20             | Valid Parentheses                                   | [Java](leetcode/20_ValidParentheses.java)                                |
 | 2215           | Find the Difference of Two Arrays                   | [Java](leetcode/2215_FindtheDifferenceofTwoArrays.java)                  |
