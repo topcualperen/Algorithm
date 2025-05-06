@@ -13,6 +13,6 @@ class Solution {
             map.put(nums[i], i);
         }
 
-        return new int[] {};
+        throw new IllegalArgumentException("No two sum solution");
     }
 }
