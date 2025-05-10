@@ -7,12 +7,11 @@ class Solution {
         int number = x;
 
         while (number > 0){
-            int remainder = (int) number % 10;
+            int remainder = number % 10;
             reverseNumber = reverseNumber * 10 + remainder;
             number /= 10;
         }
 
         return reverseNumber == x;
-
     }
 }
