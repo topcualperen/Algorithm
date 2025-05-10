@@ -3,11 +3,18 @@ class Solution {
         
         if (s.length() == 1) return true;
 
-        String newString = s.replaceAll("[\\s\\p{Punct}]", "").toLowerCase();
+        s = s.replaceAll("[\\s\\p{Punct}]", "").toLowerCase();
 
-        StringBuilder sb = new StringBuilder(newString);
+        int left = 0;
+        int right = s.length() - 1;
 
-        if (newString.equals(sb.reverse().toString())) return true;
-        else return false;
+        while (right > left){
+
+            if (s.charAt(left) != s.charAt(right)) return false;
+            left ++;
+            right --;
+        }
+
+        return true;
     }
 }
