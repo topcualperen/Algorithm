@@ -62,6 +62,7 @@
 | 12             | Reverse String 2 (in-place)                         | [Java](other/deepseek/ReverseString2.java)                               |
 | 13             | MaxMinDifference                                    | [Java](other/claude/MaxMinDifference.java)                               |
 | 14             | First Duplicate                                     | [Java](other/claude/FirstDuplicate.java)                                 |
+| 15             | Array Intersection                                  | [Java](other/claude/ArrayIntersection.java)                              |
 
 ### HackerRank
 
