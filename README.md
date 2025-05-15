@@ -63,6 +63,7 @@
 | 13             | MaxMinDifference                                    | [Java](other/claude/MaxMinDifference.java)                               |
 | 14             | First Duplicate                                     | [Java](other/claude/FirstDuplicate.java)                                 |
 | 15             | Array Intersection                                  | [Java](other/claude/ArrayIntersection.java)                              |
+| 16             | Reverse Array                                       | [Java](other/chatGPT/ReverseArray.java)                                  |
 
 ### HackerRank
 
