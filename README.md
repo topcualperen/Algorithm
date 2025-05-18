@@ -65,6 +65,7 @@
 | 15             | Array Intersection                                  | [Java](other/claude/ArrayIntersection.java)                              |
 | 16             | Reverse Array                                       | [Java](other/chatGPT/ReverseArray.java)                                  |
 | 17             | Find Closest Pair                                   | [Java](other/chatGPT/ClosestPair.java)                                   |
+| 18             | Closest Pair With Numbers                           | [Java](other/chatGPT/ClosestPairWithNumbers.java)                        |
 
 ### HackerRank
 
