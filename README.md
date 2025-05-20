@@ -67,6 +67,7 @@
 | 17             | Find Closest Pair                                   | [Java](other/chatGPT/ClosestPair.java)                                   |
 | 18             | Closest Pair With Numbers                           | [Java](other/chatGPT/ClosestPairWithNumbers.java)                        |
 | 19             | Container With Most Water                           | [Java](other/chatGPT/ContainerWithMostWater.java)                        |
+| 20             | Product of Array Except Self                        | [Java](other/chatGPT/ProductofArrayExceptSelf.java)                      |
 
 ### HackerRank
 
