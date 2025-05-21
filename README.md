@@ -68,6 +68,7 @@
 | 18             | Closest Pair With Numbers                           | [Java](other/chatGPT/ClosestPairWithNumbers.java)                        |
 | 19             | Container With Most Water                           | [Java](other/chatGPT/ContainerWithMostWater.java)                        |
 | 20             | Product of Array Except Self                        | [Java](other/chatGPT/ProductofArrayExceptSelf.java)                      |
+| 21             | Anagram                                             | [Java](other/chatGPT/Anagram.java)                                       |
 
 ### HackerRank
 
