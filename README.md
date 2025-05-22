@@ -69,6 +69,7 @@
 | 19             | Container With Most Water                           | [Java](other/chatGPT/ContainerWithMostWater.java)                        |
 | 20             | Product of Array Except Self                        | [Java](other/chatGPT/ProductofArrayExceptSelf.java)                      |
 | 21             | Anagram                                             | [Java](other/chatGPT/Anagram.java)                                       |
+| 22             | Move Zeroes                                         | [Java](other/chatGPT/MoveZeroes.java)                                    |
 
 ### HackerRank
 
