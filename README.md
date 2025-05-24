@@ -70,6 +70,7 @@
 | 20             | Product of Array Except Self                        | [Java](other/chatGPT/ProductofArrayExceptSelf.java)                      |
 | 21             | Anagram                                             | [Java](other/chatGPT/Anagram.java)                                       |
 | 22             | Move Zeroes                                         | [Java](other/chatGPT/MoveZeroes.java)                                    |
+| 23             | Subarray Sum                                        | [Java](other/chatGPT/SubarraySum.java)                                   |  
 
 ### HackerRank
 
