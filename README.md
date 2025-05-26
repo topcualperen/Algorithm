@@ -34,7 +34,7 @@
 | 2114           | Maximum Number of Words Found in Sentences          | [Java](leetcode/2114_MaximumNumberofWordsFoundinSentences.java)          |
 | 1108           | Defanging an IP Address                             | [Java](leetcode/1108_DefanginganIPAddress.java) [Python](leetcode/1108_Defanging_An_IP_Address.py) [JavaScript](leetcode/1108_Defanging_An_IP_Address.js)                                               |
 | 58             | Length of Last Word                                 | [Java](leetcode/58_LengthofLastWord.java)                                |
-| 169            | Majority Element                                    | [Java](leetcode/169_MajorityElement.java) [Python](leetcode/169_MajorityElement.py)                                                               |
+| 169            | Majority Element                                    | [Java](leetcode/169_MajorityElement.java) [Python](leetcode/169_MajorityElement.py) [JavaScript](leetcode/169_MajorityElement.js)        |
 | 268            | Missing Number                                      | [Java](leetcode/268_MissingNumber.java)                                  |
 | 217            | Contains Duplicate                                  | [Java](leetcode/217_ContainsDuplicate.java)                              |
 | 136            | Single Number                                       | [Java](leetcode/136_SingleNumber.java)                                   |
