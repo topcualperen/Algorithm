@@ -32,7 +32,7 @@
 | 9              | Palindrome Number                                   | [Java](leetcode/9_PalindromeNumber.java)                                 |
 | 876            | Middle of the Linked List                           | [Java](leetcode/876_MiddleoftheLinkedList.java)                          |
 | 2114           | Maximum Number of Words Found in Sentences          | [Java](leetcode/2114_MaximumNumberofWordsFoundinSentences.java)          |
-| 1108           | Defanging an IP Address                             | [Java](leetcode/1108_DefanginganIPAddress.java) [Python](leetcode/1108_Defanging_An_IP_Address.py)                                                |
+| 1108           | Defanging an IP Address                             | [Java](leetcode/1108_DefanginganIPAddress.java) [Python](leetcode/1108_Defanging_An_IP_Address.py) [JavaScript](leetcode/1108_Defanging_An_IP_Address.js)                                               |
 | 58             | Length of Last Word                                 | [Java](leetcode/58_LengthofLastWord.java)                                |
 | 169            | Majority Element                                    | [Java](leetcode/169_MajorityElement.java) [Python](leetcode/169_MajorityElement.py)                                                               |
 | 268            | Missing Number                                      | [Java](leetcode/268_MissingNumber.java)                                  |
