@@ -55,7 +55,7 @@
 | 5              | Right Based Triangle                                | [Java](other/RightBasedTriangle.java)                                    |
 | 6              | Largest Two Numbers                                 | [Java](other/claude/LargestTwoNumbers.java)                              |
 | 7              | String Reversal                                     | [Java](other/claude/StringReversal.java)                                 |
-| 8              | The Largest Element in Array                        | [Java](other/deepseek/TheLargestElementInArray.java)                     |
+| 8              | The Largest Element in Array                        | [Java](other/deepseek/TheLargestElementInArray.java) [JavaScript](other/deepseek/TheLargestElementInArray.js)                     |
 | 9              | FizzBuzz                                            | [Java](other/deepseek/FizzBuzz.java)                                     |
 | 10             | Intersection of Two Arrays                          | [Java](other/claude/IntersectionOfTwoArrays.java)                        |
 | 11             | Find The First Repeated Element                     | [Java](other/claude/FindTheFirstRepeatedElement.java)                    |
