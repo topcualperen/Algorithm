@@ -51,7 +51,7 @@
 | 1              | Fibonacci Sequence                                  | [Java](other/Fibonacci.java) [JavaScript](other/Fibonacci.js)                                             |
 | 2              | Is Prime                                            | [Java](other/Prime.java) [JavaScript](other/Prime.js)                                                |
 | 3              | Variable Substitution                               | [Java](other/VariableSubstitution.java) [JavaScript](other/VariableSubstitution.js)                                 |
-| 4              | Left Based Triangle                                 | [Java](other/LeftBasedTriangle.java)                                     |
+| 4              | Left Based Triangle                                 | [Java](other/LeftBasedTriangle.java) [JavaScript](other/LeftBasedTriangle.js)                                    |
 | 5              | Right Based Triangle                                | [Java](other/RightBasedTriangle.java)                                    |
 | 6              | Largest Two Numbers                                 | [Java](other/claude/LargestTwoNumbers.java) [JavaSvript](other/claude/LargestTwoNumbers.js)                             |
 | 7              | String Reversal                                     | [Java](other/claude/StringReversal.java) [JavaScript](other/claude/StringReversal.js)                               |
