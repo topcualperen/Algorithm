@@ -56,9 +56,9 @@
 | 6              | Largest Two Numbers                                 | [Java](other/claude/LargestTwoNumbers.java) [JavaSvript](other/claude/LargestTwoNumbers.js)                             |
 | 7              | String Reversal                                     | [Java](other/claude/StringReversal.java) [JavaScript](other/claude/StringReversal.js)                               |
 | 8              | The Largest Element in Array                        | [Java](other/deepseek/TheLargestElementInArray.java) [JavaScript](other/deepseek/TheLargestElementInArray.js)                     |
-| 9              | FizzBuzz                                            | [Java](other/deepseek/FizzBuzz.java)                                     |
+| 9              | FizzBuzz                                            | [Java](other/deepseek/FizzBuzz.java) [JavaScript](other/deepseek/FizzBuzz.js)                                   |
 | 10             | Intersection of Two Arrays                          | [Java](other/claude/IntersectionOfTwoArrays.java)                        |
-| 11             | Find The First Repeated Element                     | [Java](other/claude/FindTheFirstRepeatedElement.java)                    |
+| 11             | Find The First Repeated Element                     | [Java](other/claude/FindTheFirstRepeatedElement.java) [JavaScript](other/claude/FindTheFirstRepeatedElement.js)               |
 | 12             | Reverse String 2 (in-place)                         | [Java](other/deepseek/ReverseString2.java) [JavaScript](other/deepseek/ReverseString2.js)                           |
 | 13             | MaxMinDifference                                    | [Java](other/claude/MaxMinDifference.java)                               |
 | 14             | First Duplicate                                     | [Java](other/claude/FirstDuplicate.java)                                 |
