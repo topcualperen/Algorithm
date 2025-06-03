@@ -59,7 +59,7 @@
 | 9              | FizzBuzz                                            | [Java](other/deepseek/FizzBuzz.java)                                     |
 | 10             | Intersection of Two Arrays                          | [Java](other/claude/IntersectionOfTwoArrays.java)                        |
 | 11             | Find The First Repeated Element                     | [Java](other/claude/FindTheFirstRepeatedElement.java)                    |
-| 12             | Reverse String 2 (in-place)                         | [Java](other/deepseek/ReverseString2.java)                               |
+| 12             | Reverse String 2 (in-place)                         | [Java](other/deepseek/ReverseString2.java) [JavaScript](other/deepseek/ReverseString2.js)                           |
 | 13             | MaxMinDifference                                    | [Java](other/claude/MaxMinDifference.java)                               |
 | 14             | First Duplicate                                     | [Java](other/claude/FirstDuplicate.java)                                 |
 | 15             | Array Intersection                                  | [Java](other/claude/ArrayIntersection.java)                              |
