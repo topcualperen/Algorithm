@@ -28,7 +28,7 @@
 | 1              | Two Sum                                             | [Java](leetcode/1_TwoSum.java) [Python](leetcode/1_TwoSum.py) [JavaScript](leetcode/1_TwoSum.js)                                                  |
 | 20             | Valid Parentheses                                   | [Java](leetcode/20_ValidParentheses.java)                                |
 | 2215           | Find the Difference of Two Arrays                   | [Java](leetcode/2215_FindtheDifferenceofTwoArrays.java)                  |
-| 26             | Remove Duplicates from Sorted Array                 | [Java](leetcode/26_RemoveDuplicatesfromSortedArray.java)                 |
+| 26             | Remove Duplicates from Sorted Array                 | [Java](leetcode/26_RemoveDuplicatesfromSortedArray.java)                 |            
 | 9              | Palindrome Number                                   | [Java](leetcode/9_PalindromeNumber.java)                                 |
 | 876            | Middle of the Linked List                           | [Java](leetcode/876_MiddleoftheLinkedList.java)                          |
 | 2114           | Maximum Number of Words Found in Sentences          | [Java](leetcode/2114_MaximumNumberofWordsFoundinSentences.java)          |
@@ -61,7 +61,7 @@
 | 11             | Find The First Repeated Element                     | [Java](other/claude/FindTheFirstRepeatedElement.java) [JavaScript](other/claude/FindTheFirstRepeatedElement.js)               |
 | 12             | Reverse String 2 (in-place)                         | [Java](other/deepseek/ReverseString2.java) [JavaScript](other/deepseek/ReverseString2.js)                           |
 | 13             | MaxMinDifference                                    | [Java](other/claude/MaxMinDifference.java) [JavaScript](other/claude/MaxMinDifference.js)                              |
-| 14             | First Duplicate                                     | [Java](other/claude/FirstDuplicate.java)                                 |
+| 14             | First Duplicate                                     | [Java](other/claude/FirstDuplicate.java) [JavaScript](other/claude/FirstDuplicate.js)                                |
 | 15             | Array Intersection                                  | [Java](other/claude/ArrayIntersection.java)                              |
 | 16             | Reverse Array                                       | [Java](other/chatGPT/ReverseArray.java)                                  |
 | 17             | Find Closest Pair                                   | [Java](other/chatGPT/ClosestPair.java)                                   |
