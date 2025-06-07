@@ -62,12 +62,12 @@
 | 12             | Reverse String 2 (in-place)                         | [Java](other/deepseek/ReverseString2.java) [JavaScript](other/deepseek/ReverseString2.js)                           |
 | 13             | MaxMinDifference                                    | [Java](other/claude/MaxMinDifference.java) [JavaScript](other/claude/MaxMinDifference.js)                              |
 | 14             | First Duplicate                                     | [Java](other/claude/FirstDuplicate.java) [JavaScript](other/claude/FirstDuplicate.js)                                |
-| 15             | Array Intersection                                  | [Java](other/claude/ArrayIntersection.java)                              |
-| 16             | Reverse Array                                       | [Java](other/chatGPT/ReverseArray.java)                                  |
-| 17             | Find Closest Pair                                   | [Java](other/chatGPT/ClosestPair.java)                                   |
-| 18             | Closest Pair With Numbers                           | [Java](other/chatGPT/ClosestPairWithNumbers.java)                        |
+| 15             | Array Intersection                                  | [Java](other/claude/ArrayIntersection.java) [JavaScript](other/claude/ArrayIntersection.js)                           |
+| 16             | Reverse Array                                       | [Java](other/chatGPT/ReverseArray.java) [JavaScript](other/chatGPT/ReverseArray.js)                                |
+| 17             | Find Closest Pair                                   | [Java](other/chatGPT/ClosestPair.java) [JavaScript](other/chatGPT/ClosestPair.js)                                |
+| 18             | Closest Pair With Numbers                           | [Java](other/chatGPT/ClosestPairWithNumbers.java) [JavaScript](other/chatGPT/ClosestPairWithNumbers.js)                      |
 | 19             | Container With Most Water                           | [Java](other/chatGPT/ContainerWithMostWater.java)                        |
-| 20             | Product of Array Except Self                        | [Java](other/chatGPT/ProductofArrayExceptSelf.java)                      |
+| 20             | Product of Array Except Self                        | [Java](other/chatGPT/ProductofArrayExceptSelf.java) [JavaScript](other/chatGPT/ProductofArrayExceptSelf.js)                   |
 | 21             | Anagram                                             | [Java](other/chatGPT/Anagram.java)                                       |
 | 22             | Move Zeroes                                         | [Java](other/chatGPT/MoveZeroes.java)                                    |
 | 23             | Subarray Sum                                        | [Java](other/chatGPT/SubarraySum.java)                                   |  
