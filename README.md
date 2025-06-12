@@ -69,7 +69,7 @@
 | 19             | Container With Most Water                           | [Java](other/chatGPT/ContainerWithMostWater.java)                        |
 | 20             | Product of Array Except Self                        | [Java](other/chatGPT/ProductofArrayExceptSelf.java) [JavaScript](other/chatGPT/ProductofArrayExceptSelf.js)                   |
 | 21             | Anagram                                             | [Java](other/chatGPT/Anagram.java)                                       |
-| 22             | Move Zeroes                                         | [Java](other/chatGPT/MoveZeroes.java)                                    |
+| 22             | Move Zeroes                                         | [Java](other/chatGPT/MoveZeroes.java) [JavaScript](other/chatGPT/MoveZeroes.js)                                 |
 | 23             | Subarray Sum                                        | [Java](other/chatGPT/SubarraySum.java)                                   |  
 | 24             | Number Reversal                                     | [Java](other/NumberReversal.js)|
 
