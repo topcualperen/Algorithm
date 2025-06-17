@@ -72,6 +72,7 @@
 | 22             | Move Zeroes                                         | [Java](other/chatGPT/MoveZeroes.java) [JavaScript](other/chatGPT/MoveZeroes.js)                                 |
 | 23             | Subarray Sum                                        | [Java](other/chatGPT/SubarraySum.java)                                   |  
 | 24             | Number Reversal                                     | [Java](other/NumberReversal.js)|
+| 25             | Word Count                                          | [Java](other/chatGPT/WordCount.java)|
 
 ### HackerRank
 
