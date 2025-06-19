@@ -73,6 +73,7 @@
 | 23             | Subarray Sum                                        | [Java](other/chatGPT/SubarraySum.java)                                   |  
 | 24             | Number Reversal                                     | [Java](other/NumberReversal.js)|
 | 25             | Word Count                                          | [Java](other/chatGPT/WordCount.java)|
+| 26             | is Palindrome?                                      | [Java](other/IsPalindrome.java)|
 
 ### HackerRank
 
