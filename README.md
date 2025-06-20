@@ -74,6 +74,7 @@
 | 24             | Number Reversal                                     | [Java](other/NumberReversal.js)|
 | 25             | Word Count                                          | [Java](other/chatGPT/WordCount.java)|
 | 26             | is Palindrome?                                      | [Java](other/IsPalindrome.java)|
+| 27             | Count Occurrences                                   | [Java](other/chatGPT/CountOccurrences.java)|
 
 ### HackerRank
 
