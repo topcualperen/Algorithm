@@ -75,6 +75,7 @@
 | 25             | Word Count                                          | [Java](other/chatGPT/WordCount.java)|
 | 26             | is Palindrome?                                      | [Java](other/IsPalindrome.java)|
 | 27             | Count Occurrences                                   | [Java](other/chatGPT/CountOccurrences.java)|
+| 28             | Ascending Order                                     | [Java](other/chatGPT/AscendingOrder.java)|
 
 ### HackerRank
 
