@@ -1,43 +1,34 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 public class Anagram{
 
     private static boolean isAnagram(String s, String t){
 
-        List<Character> listS = new ArrayList<>();
-        List<Character> listT = new ArrayList<>();
+        if (s.length() != t.length()) return false;
 
-        boolean resultChar = false;
+        char[] sChar = s.toCharArray();
+        char[] tChar = t.toCharArray();
 
-        for (char c : s.toCharArray()){
-            listS.add(c);
-        }
+        Arrays.sort(sChar);
+        Arrays.sort(tChar);
 
-        for (char c2 : t.toCharArray()){
-            listT.add(c2);
-        }
+/*
+ *  - Burada Arrays.equals yapmamızın sebebi dizilerin Object sınıfından türemesinden dolayı 
+ *  equals() metotunu override edilmemiş olmasıdır. Edilmediği için de
+ *  sChar.equals(tChar) yazdığımızda değer karşılaştırması yerine referans karşılaştırması yapacak olmasıdır.
+ * 
+ *  - Stringler ise equals() metotunu override ettikleri için referans karşılaştırması yerine değer karşılaştırması yapabilir.
+ */
 
-        if (listS.size() == listT.size()){
-         
-            resultChar = true;
-
-            for (char c3 : t.toCharArray()){
-                if (!listS.contains(c3)) {
-                    resultChar = false;        
-                    break;
-                } 
-            }
-
-        }
-
-        return resultChar;
+        if (Arrays.equals(sChar, tChar)) return true; 
+        
+        return false;
     }
 
     public static void main(String[] args){
 
         String s = "alpa";
-        String t = "lpaaa";
+        String t = "lpaa";
 
         System.out.println(isAnagram(s, t));
     }
