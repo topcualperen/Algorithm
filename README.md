@@ -76,6 +76,7 @@
 | 26             | is Palindrome?                                      | [Java](other/IsPalindrome.java)|
 | 27             | Count Occurrences                                   | [Java](other/chatGPT/CountOccurrences.java)|
 | 28             | Ascending Order                                     | [Java](other/chatGPT/AscendingOrder.java)|
+| 29             | Digit Sum                                           | [Java](other/chatGPT/DigitSum.java)|
 
 ### HackerRank
 
