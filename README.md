@@ -77,6 +77,7 @@
 | 27             | Count Occurrences                                   | [Java](other/chatGPT/CountOccurrences.java)|
 | 28             | Ascending Order                                     | [Java](other/chatGPT/AscendingOrder.java)|
 | 29             | Digit Sum                                           | [Java](other/chatGPT/DigitSum.java)|
+| 30             | GCD Calculator                                      | [Java](other/chatGPT/GCDcalculator.java)|
 
 ### HackerRank
 
