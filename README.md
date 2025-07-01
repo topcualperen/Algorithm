@@ -81,6 +81,7 @@
 | 31             | Find Digit Count                                    | [Java](other/chatGPT/DigitCounter.java)|
 | 32             | Armstrong Check                                     | [Java](other/chatGPT/ArmstrongCheck.java)|
 | 33             | Max Difference Two Number                           | [Java](other/chatGPT/MaxDifferenceTwoNumber.java)|
+| 34             | Maximum Subarray                                    | [Java](other/gemini/MaximumSubarray.java)|
 
 ### HackerRank
 
