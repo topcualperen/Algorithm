@@ -83,6 +83,7 @@
 | 33             | Max Difference Two Number                           | [Java](other/chatGPT/MaxDifferenceTwoNumber.java)|
 | 34             | Maximum Subarray                                    | [Java](other/gemini/MaximumSubarray.java)|
 | 35             | Sorted Squares                                      | [Java](other/gemini/SortedSquares.java)|
+| 36             | Rotate Array                                        | [Java](other/gemini/Rotate.java)|
 
 ### HackerRank
 
