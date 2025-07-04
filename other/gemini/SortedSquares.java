@@ -18,8 +18,6 @@ public class SortedSquares {
 
         int[] arr = new int[] {-4, -1, 100, 3, 10};
         
-        for (int i : sortedSquares(arr)) {
-            System.out.println(i);
-        }
+        System.out.println(Arrays.toString(sortedSquares(arr)));
     }
 }
