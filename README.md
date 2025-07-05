@@ -84,6 +84,7 @@
 | 34             | Maximum Subarray                                    | [Java](other/gemini/MaximumSubarray.java)|
 | 35             | Sorted Squares                                      | [Java](other/gemini/SortedSquares.java)|
 | 36             | Rotate Array                                        | [Java](other/gemini/Rotate.java)|
+| 37             | Reverse Words                                       | [Java](other/gemini/ReverseWords.java)|
 
 ### HackerRank
 
