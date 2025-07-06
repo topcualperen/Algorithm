@@ -85,6 +85,7 @@
 | 35             | Sorted Squares                                      | [Java](other/gemini/SortedSquares.java)|
 | 36             | Rotate Array                                        | [Java](other/gemini/Rotate.java)|
 | 37             | Reverse Words                                       | [Java](other/gemini/ReverseWords.java)|
+| 38             | Rate Limiter                                        | [Java](other/chatGPT/RateLimiter.java)|
 
 ### HackerRank
 
