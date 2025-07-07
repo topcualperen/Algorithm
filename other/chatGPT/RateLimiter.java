@@ -6,32 +6,34 @@ import java.util.Queue;
 /**
  *  bir sistemde her 60 sn de toplam 3 istek kabul ediyorsa kabul edilen isteklerin zamanlarının bulunması
  */
-
 public class RateLimiter {
     
     private static Queue<Integer> rateLimiter(List<Integer> rates, int rateLimit) {
+        if (rates == null || rates.isEmpty() || rateLimit <= 0) {
+            return new LinkedList<>();
+        }
 
-        Queue<Integer> queue = new LinkedList<>();
-
-        if (queue.isEmpty()) queue.add(rates.get(0));
+        Queue<Integer> acceptedRequests = new LinkedList<>();
+        acceptedRequests.offer(rates.get(0));
 
         for (int i = 1; i < rates.size(); i++) {
-            if (queue.peek() <= (rates.get(i) - 60)) {
-                if (queue.size() >= rateLimit) {
-                    queue.remove(); 
-                    queue.add(rates.get(i));
-                }
+            int currentTime = rates.get(i);
+            
+            // Zaman penceresi dışındaki eski istekleri kaldır
+            while (!acceptedRequests.isEmpty() && acceptedRequests.peek() <= currentTime - 60) {
+                acceptedRequests.poll();
             }
-            if (queue.peek() > (rates.get(i) - 60)) {
-                if (queue.size() < rateLimit) queue.add(rates.get(i));
+            
+            // Rate limit dolmamışsa yeni isteği ekle
+            if (acceptedRequests.size() < rateLimit) {
+                acceptedRequests.offer(currentTime);
             }
         }
 
-        return queue;
+        return acceptedRequests;
     }
 
     public static void main(String[] args) {
-
         int limit = 3;
         List<Integer> rates = new ArrayList<>();
         rates.add(1);
@@ -42,7 +44,8 @@ public class RateLimiter {
         rates.add(63);
         rates.add(71);
 
-        System.out.println(rateLimiter(rates, limit));
+        Queue<Integer> result = rateLimiter(rates, limit);
+        System.out.println("Kabul edilen isteklerin zamanları: " + result);
     }
 }
 
