@@ -19,7 +19,7 @@ public class RateLimiter {
         for (int i = 1; i < rates.size(); i++) {
             int currentTime = rates.get(i);
             
-            // Zaman penceresi dışındaki eski istekleri kaldır
+            // Zaman penceresi dışındaki geçersiz kalan istekleri kaldır
             while (!acceptedRequests.isEmpty() && acceptedRequests.peek() <= currentTime - 60) {
                 acceptedRequests.poll();
             }
