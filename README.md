@@ -86,6 +86,7 @@
 | 36             | Rotate Array                                        | [Java](other/gemini/Rotate.java)|
 | 37             | Reverse Words                                       | [Java](other/gemini/ReverseWords.java)|
 | 38             | Rate Limiter                                        | [Java](other/chatGPT/RateLimiter.java)|
+| 39             | Strong Password Validator                           | [Java](other/deepseek/StrongPasswordValidator.java)|
 
 ### HackerRank
 
