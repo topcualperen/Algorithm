@@ -1,3 +1,10 @@
+
+/**
+ *  Kırılması kolay olmayan şifre oluşturma algorirması.
+ *  
+ *  NOT: Kullanıcılardan beklenen minimum 17 karakterli şifrenin karmaşıklığı şifrenin gücünü arttırır.
+ */
+
 public class StrongPasswordValidator {
 
     public static boolean validateStrongPassword(String password) {
