@@ -114,4 +114,4 @@
 
 ## 📬 Contact
 - **GitHub**: [GitHub](https://github.com/topcualperen)
-- **Linkedin**: [Linkedin](https://www.linkedin.com/in/sabri-alperen-topcu/)  
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/topcualperen/)  
