@@ -45,6 +45,7 @@
 | 202            | Happy Number                                        | [Java](leetcode/202_HappyNumber.java)                                    |
 | 344            | Reverse String                                      | [Java](leetcode/344_ReverseString.java)|
 | 680            | Valid Palindrome 2                                  | [Java](leetcode/680_ValidPalindrome2.java) |
+| 66             | Plus One                                            | [Java](leetcode/66_PlusOne.java)|
 
 ### Other
 
