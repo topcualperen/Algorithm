@@ -48,6 +48,7 @@
 | 66             | Plus One                                            | [Java](leetcode/66_PlusOne.java)|
 | 88             | Merge Sorted Array                                  | [Java](leetcode/88_MergeSortedArray.java)|
 | 191            | Number of 1 Bits                                    | [Java](leetcode/191_NumberOf1Bits.java)|
+| 14             | Longest Common Prefix                               | [Java](leetcode/14_LongestCommonPrefix.java)|
 
 ### Other
 
