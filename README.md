@@ -51,6 +51,7 @@
 | 14             | Longest Common Prefix                               | [Java](leetcode/14_LongestCommonPrefix.java)|
 | 412            | Fizz Buzz                                           | [Java](leetcode/412_FizzBuzz.java)|
 | 2582           | Pass The Pillow                                     | [Java](leetcode/2582_PassThePillow.java)|
+| 242            | 242 Valid Anagram                                   | [Java](leetcode/242_ValidAnagram.java)|
 
 ### Other
 
