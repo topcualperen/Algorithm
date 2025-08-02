@@ -15,12 +15,23 @@ public class LargestTwoNumbers {
 
     private static int[] largestTwoNumbers(int[] arr){
 
-        int firstOne = Math.max(arr[0], arr[1]);
-        int secondOne = Math.min(arr[0], arr[1]);
+        if (arr.length < 2 || arr == null) {
+            throw new IllegalArgumentException("Array must contain at least 2 elements");
+        }
+
+        int firstOne, secondOne;
+
+        if (arr[0] > arr[1]) {
+            firstOne = arr[0];
+            secondOne = arr[1];
+        }else {
+            firstOne = arr[1];
+            secondOne = arr[0];
+        }
 
         for (int i = 2; i < arr.length; i++){
             
-            if (arr[i] > firstOne){
+            if (arr[i] >= firstOne){
                 secondOne = firstOne;
                 firstOne = arr[i];
             }else if (arr[i] > secondOne) secondOne = arr[i];
