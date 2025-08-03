@@ -3,20 +3,20 @@ import java.util.HashSet;
 
 public class FindTheFirstRepeatedElement{
 
-    private static int firstrepeatedElement(int[] nums){
+    private static int firstrepeatedElement(int[] nums) {
 
-        if (nums.length <= 1) return -1;
-
-        Set<Integer> set = new HashSet<>();
-
-        for (int i : nums){
-
-            if (set.contains(i)){
-                return i;
-            }
-            set.add(i);
+        if (nums == null || nums.length < 2) {
+            return -1;
         }
 
+        Set<Integer> seenElement = new HashSet<>();
+
+        for (int i : nums) {
+
+            if (!seenElement.add(i)) {
+                return i;
+            }
+        }
         return -1;
     }
 
