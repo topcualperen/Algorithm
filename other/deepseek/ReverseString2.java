@@ -4,19 +4,17 @@ import java.util.Arrays;
 
 public class ReverseString2{
 
-    private static void reverseString(char[] s){
+    private static void reverseString(char[] s) {
+
+        if (s == null || s.length <= 1) return;
 
         int left = 0;
         int right = s.length - 1;
 
-        while (right > left){
-            
+        while (right > left) {
             char temp = s[left];
-            s[left] = s[right];
-            s[right] = temp;
-
-            left ++;
-            right --;
+            s[left++] = s[right];
+            s[right--] = temp;
         }
     }
 
