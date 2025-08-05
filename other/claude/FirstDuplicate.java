@@ -1,19 +1,21 @@
 import java.util.HashSet;
+import java.util.Set;
 
 // Bir array içinde tekrar eden ilk elemanı bulan algoritma
 
 public class FirstDuplicate{
 
-    private static Integer findFirstDuplicate(int[] nums){
+    private static Integer findFirstDuplicate(int[] nums) {
 
-        HashSet<Integer> set = new HashSet<>();
+        if (nums == null || nums.length < 2) return null;
 
-        for (int i = 0; i < nums.length; i++){
+        Set<Integer> seen = new HashSet<>();
 
-            if (set.contains(nums[i])) return nums[i];
-            set.add(nums[i]);
+        for (int i : nums) {
+
+            if (!seen.add(i)) return i;
+            System.out.println(i);
         }
-
         return null;
     }
 
