@@ -4,25 +4,21 @@ import java.util.Arrays;
 
 public class ClosestPairWithNumbers{
 
-    private static int[] findPairNumbers(int[] nums){
+    private static int[] findPairNumbers (int[] nums) {
+        if (nums == null || nums.length < 2) return new int[]{};
 
         Arrays.sort(nums);
-
-        int diff = Integer.MAX_VALUE;
+        int minDiff = Integer.MAX_VALUE;
         int[] resultArr = new int[2];
-
-        for (int i = 0; i < nums.length - 1; i++){
-
-            int currentDiff = Math.abs(nums[i + 1] - nums[i]);
-
-            if (currentDiff < diff) {
-
-                diff = currentDiff;
+        for (int i = 0; i < nums.length - 1; i++) {
+            if ((nums[i + 1] - nums[i]) < minDiff) {
+                minDiff = nums[i + 1] - nums[i];
                 resultArr[0] = nums[i];
                 resultArr[1] = nums[i + 1];
+
+                if (nums[i + 1] - nums[i] == 0) break;
             }
         }
-
         return resultArr;
     }
 
