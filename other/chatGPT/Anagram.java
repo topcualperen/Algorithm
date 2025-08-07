@@ -1,16 +1,3 @@
-import java.util.Arrays;
-
-public class Anagram{
-
-    private static boolean isAnagram(String s, String t){
-
-        if (s.length() != t.length()) return false;
-
-        char[] sChar = s.toCharArray();
-        char[] tChar = t.toCharArray();
-
-        Arrays.sort(sChar);
-        Arrays.sort(tChar);
 
 /*
  *  - Burada Arrays.equals yapmamızın sebebi dizilerin Object sınıfından türemesinden dolayı 
@@ -20,9 +7,20 @@ public class Anagram{
  *  - Stringler ise equals() metotunu override ettikleri için referans karşılaştırması yerine değer karşılaştırması yapabilir.
  */
 
-        if (Arrays.equals(sChar, tChar)) return true; 
-        
-        return false;
+import java.util.Arrays;
+
+public class Anagram{
+
+    private static boolean isAnagram (String s, String t) {
+        if (s == null || s == null || s.length() != t.length()) return false;
+
+        char[] sChar = s.toCharArray();
+        char[] tChar = t.toCharArray();
+
+        Arrays.sort(sChar);
+        Arrays.sort(tChar);
+
+        return Arrays.equals(sChar, tChar);
     }
 
     public static void main(String[] args){
