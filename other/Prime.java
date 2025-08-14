@@ -7,7 +7,7 @@ public class Prime {
         if (number == 2 ||number == 3) return true;
         if (number < 2 || number % 2 == 0) return false;
 
-        for (int i = 5; i <= Math.sqrt(number); i +=2) {
+        for (int i = 1; i <= Math.sqrt(number); i +=2) {
 
             if (number % i == 0) return false;
         }
