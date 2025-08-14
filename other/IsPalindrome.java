@@ -6,23 +6,20 @@ public class IsPalindrome{
 
         if (number < 0) return false;
 
-        int proxyNumber = number;
+        int original = number;
         int reverseNumber = 0;
 
-        while (proxyNumber > 0) {
-
-            int remainder = proxyNumber % 10;
-            reverseNumber = reverseNumber * 10 + remainder;
-            proxyNumber = proxyNumber / 10;
+        while (original > 0) {
+            reverseNumber = reverseNumber * 10 + original % 10;
+            original /= 10;
         }
 
-        if (number == reverseNumber) return true;
-        return false;
+        return number == reverseNumber;
     }
 
     public static void main(String[] args){
 
-        int num = 5775;
+        int num = 578775;
         System.out.println(isPalindrome(num));
     }
 }
