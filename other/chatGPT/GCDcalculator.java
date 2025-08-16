@@ -1,3 +1,4 @@
+package chatGPT;
 
 /*  
  * 
@@ -24,7 +25,7 @@ public class GCDcalculator{
 
     public static void main(String[] args){
 
-        int number1 = 60;
+        int number1 = 40;
         int number2 = 36;
 
         System.out.println(gcdCalculator(number1, number2));
