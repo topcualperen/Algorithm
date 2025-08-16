@@ -1,4 +1,4 @@
-
+package chatGPT;
 
 /*
  *  decompose a positive number into its digits and find the sum of its digits
@@ -7,24 +7,19 @@
 
 public class DigitSum {
 
-    private static int digitsSum(int number){
+    private static int digitsSum(int number) {
+        if (number < 0) return -1;
 
-        int num = number;
-        int result = 0;
-
-        while (num > 0){
-            int remainder = num % 10;
-            result += remainder;
-            num /= 10;
+        int sumOfDigits = 0;
+        while (number > 0) {
+            sumOfDigits += number % 10;
+            number /= 10;
         }
-
-        return result;
+        return sumOfDigits; 
     }
 
-
     public static void main(String[] args){
-
-        int number = 4556;
+        int number = 0;
         System.out.println(digitsSum(number));
     }
 }
