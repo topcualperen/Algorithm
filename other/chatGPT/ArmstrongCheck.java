@@ -1,37 +1,27 @@
+package chatGPT;
 
 public class ArmstrongCheck {
 
-    private static boolean armstrongCheck(int num){
-
-        int digit = 0;
-
-        int number2 = num;
-
-        while (number2 > 0) {
-            number2 /= 10;
-            digit ++;
+    private static boolean isArmstrongCheck(int number){
+        int digitCount = 0;
+        int tempNumber = number;
+        while (tempNumber > 0) {
+            tempNumber /= 10;
+            digitCount++;
         }
-
-        if (digit != 3) return false;
 
         int sum = 0;
-
-        int number = num;
-
-        while (number > 0) {
-
-            int remainder = number % 10;
-            sum += remainder * remainder * remainder;
-            number /= 10;
+        int originalNumber = number;
+        while (originalNumber > 0) {
+            int remainder = originalNumber % 10;
+            sum += (int) Math.pow(remainder, digitCount);
+            originalNumber /= 10;
         }
-
-        if (sum == num) return true;
-        return false;
+        return sum == number;
     }
 
     public static void main(String[] args){
-
-        int number = 123;
-        System.out.println(armstrongCheck(number));
+        int number = 153;
+        System.out.println(isArmstrongCheck(number));
     }
 }
