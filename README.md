@@ -98,6 +98,8 @@
 | 38             | Rate Limiter                                        | [Java](other/chatGPT/RateLimiter.java)|
 | 39             | Strong Password Validator                           | [Java](other/deepseek/StrongPasswordValidator.java)|
 | 40             | Rotate Array                                        | [Java](other/claude/RotatedArray.java)|
+| 41             | CalculateAverage                                    | [Java](other/chatGPT/CalculateAverage.java)|
+| 42             | NumberCounter                                       | [Java](other/chatGPT/NumberCounter.java)|
 
 ### HackerRank
 
