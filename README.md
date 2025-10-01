@@ -64,7 +64,7 @@
 | 4              | Left Based Triangle                                 | [Java](other/LeftBasedTriangle.java) [JavaScript](other/LeftBasedTriangle.js)                                    |
 | 5              | Right Based Triangle                                | [Java](other/RightBasedTriangle.java)                                    |
 | 6              | Largest Two Numbers                                 | [Java](other/claude/LargestTwoNumbers.java) [JavaSvript](other/claude/LargestTwoNumbers.js)                             |
-| 7              | String Reversal                                     | [Java](other/claude/StringReversal.java) [JavaScript](other/claude/StringReversal.js)                               |
+| 7              | String Reversal                                     | [Java](other/claude/StringReversal.java) [JavaScript](other/claude/StringReversal.js) [Python](other/claude/string_reversal.py) |
 | 8              | The Largest Element in Array                        | [Java](other/deepseek/TheLargestElementInArray.java) [JavaScript](other/deepseek/TheLargestElementInArray.js)                     |
 | 9              | FizzBuzz                                            | [Java](other/deepseek/FizzBuzz.java) [JavaScript](other/deepseek/FizzBuzz.js)                                   |
 | 10             | Intersection of Two Arrays                          | [Java](other/claude/IntersectionOfTwoArrays.java)                        |
