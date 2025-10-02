@@ -58,7 +58,7 @@
 
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
-| 1              | Fibonacci Sequence                                  | [Java](other/Fibonacci.java) [JavaScript](other/Fibonacci.js)                                             |
+| 1              | Fibonacci Sequence                                  | [Java](other/Fibonacci.java) [JavaScript](other/Fibonacci.js) [Python](other/fibonacci.py) |
 | 2              | Is Prime                                            | [Java](other/Prime.java) [JavaScript](other/Prime.js)                                                |
 | 3              | Variable Substitution                               | [Java](other/VariableSubstitution.java) [JavaScript](other/VariableSubstitution.js) [Python](other/variable_substitution.py)|
 | 4              | Left Based Triangle                                 | [Java](other/LeftBasedTriangle.java) [JavaScript](other/LeftBasedTriangle.js)                                    |
