@@ -53,6 +53,7 @@
 | 2582           | Pass The Pillow                                     | [Java](leetcode/2582_PassThePillow.java)|
 | 242            | Valid Anagram                                       | [Java](leetcode/242_ValidAnagram.java)|
 | 283            | Move Zeroes                                         | [Java](leetcode/283_MoveZeroes.java)|
+| 1071           | Greatest_Common_Divisor_of_Strings                  |[Python](leetcode/1071_Greatest_Common_Divisor_of_Strings.py)|
 
 ### Other
 
