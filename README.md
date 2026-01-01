@@ -56,6 +56,12 @@
 | 1071           | Greatest_Common_Divisor_of_Strings                  | [Python](leetcode/1071_Greatest_Common_Divisor_of_Strings.py)|
 | 1431           | Kids With the Greatest Number of Candies            | [Python](leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)|
 
+### LeetCode - Maths
+
+| Problem Number | Problem Name                                        | Solution Code                                                           | 
+|----------------|-----------------------------------------------------|-------------------------------------------------------------------------|
+| Q1           | Can Make Arithmetic Progression From Sequence        | [Java]()|
+
 ### Other
 
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
