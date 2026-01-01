@@ -60,7 +60,7 @@
 
 | Problem Number | Problem Name                                        | Solution Code                                                           | 
 |----------------|-----------------------------------------------------|-------------------------------------------------------------------------|
-| Q1           | Can Make Arithmetic Progression From Sequence        | [Java]()|
+| Q1             | Can Make Arithmetic Progression From Sequence       | [Java](leetcode-maths/canMakeArithmeticProgression.java)                |
 
 ### Other
 
