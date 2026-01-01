@@ -13,6 +13,7 @@
 
 ## 🧩 Algorithms
 - [LeetCode](#leetcode)
+- [LeetCode - Math](#leetcode---maths)
 - [HackerRank](#hackerrank)
 - [Other](#other)
 
