@@ -61,7 +61,8 @@
 
 | Problem Number | Problem Name                                        | Solution Code                                                           | 
 |----------------|-----------------------------------------------------|-------------------------------------------------------------------------|
-| Q1             | Can Make Arithmetic Progression From Sequence       | [Java](leetcode-maths/canMakeArithmeticProgression.java)                |
+| Q1             | Can Make Arithmetic Progression From Sequence       | [Java](leetcode-maths/CanMakeArithmeticProgression.java)                |
+| Q2             | Pivot Integer                                       | [Java](leetcode-maths/PivotInteger.java)                |
 
 ### Other
 
