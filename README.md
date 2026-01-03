@@ -63,6 +63,7 @@
 |----------------|-----------------------------------------------------|-------------------------------------------------------------------------|
 | Q1             | Can Make Arithmetic Progression From Sequence       | [Java](leetcode-maths/CanMakeArithmeticProgression.java)                |
 | Q2             | Pivot Integer                                       | [Java](leetcode-maths/PivotInteger.java)                |
+| Q3             | Palindrome Number                                   | [Java](leetcode-maths/PalindromeNumber.java)                |
 
 ### Other
 
