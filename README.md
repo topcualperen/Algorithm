@@ -56,6 +56,7 @@
 | 283            | Move Zeroes                                         | [Java](leetcode/283_MoveZeroes.java)|
 | 1071           | Greatest_Common_Divisor_of_Strings                  | [Python](leetcode/1071_Greatest_Common_Divisor_of_Strings.py)|
 | 1431           | Kids With the Greatest Number of Candies            | [Python](leetcode/1431_Kids_With_the_Greatest_Number_of_Candies.py)|
+| 121            | Best Time to Buy and Sell Stock                     | [Java](leetcode/121_BestTimetoBuyandSellStock.java)|
 
 ### LeetCode - Maths
 
