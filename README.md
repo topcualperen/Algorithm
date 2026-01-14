@@ -126,6 +126,12 @@
 | 6              | Staircase                                           | [Java](hackerrank/Staircase.java)                                        |
 | 7              | Mini - Max Sum                                      | [Java](hackerrank/MiniMaxSum.java)                                       |
 
+### SQL
+
+| Problem Number | Problem Name                                        | Solution Code                                                            | 
+|----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
+| 1              | Revising the Select Query I                         | [SQL]()                                         |
+
 ---
 
 ## 🤖 Contribution
