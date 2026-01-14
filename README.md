@@ -130,7 +130,8 @@
 
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
-| 1              | Revising the Select Query I                         | [SQL]()                                         |
+| 1              | Revising the Select Query I                         | [SQL](sql/revising_the_select_query_I.sql)                               |
+| 2              | Revising the Select Query II                        | [SQL](sql/revising_the_select_query_II.sql)                              |
 
 ---
 
