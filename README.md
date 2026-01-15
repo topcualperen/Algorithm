@@ -132,6 +132,12 @@
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
 | 1              | Revising the Select Query I                         | [SQL](sql/revising_the_select_query_I.sql)                               |
 | 2              | Revising the Select Query II                        | [SQL](sql/revising_the_select_query_II.sql)                              |
+| 3              | Select All                                          | [SQL]()|
+| 4              | Select By ID                                        | [SQL]()|
+| 5              | Japanese Cities' Attributes                         | [SQL]()|
+| 6              | Japanese Cities' Names                              | [SQL]()|
+| 7              | Weather Observation Station 1                       | [SQL]()|
+| 8              | Weather Observation Station 3                       | [SQL]()|
 
 ---
 
