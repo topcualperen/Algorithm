@@ -138,6 +138,7 @@
 | 6              | Japanese Cities' Names                              | [SQL](sql/japanese_cities_names.sql)|
 | 7              | Weather Observation Station 1                       | [SQL](sql/weather_observation_station_1.sql)|
 | 8              | Weather Observation Station 3                       | [SQL](sql/weather_observation_station_3.sql)|
+| 9              | Weather Observation Station 4                       | [SQL](sql/weather_observation_station_4.sql)|
 
 ---
 
