@@ -140,6 +140,7 @@
 | 8              | Weather Observation Station 3                       | [SQL](sql/weather_observation_station_3.sql)|
 | 9              | Weather Observation Station 4                       | [SQL](sql/weather_observation_station_4.sql)|
 | 10             | Weather Observation Station 6                       | [SQL](sql/weather_observation_station_6.sql)| 
+| 11             | Weather Observation Station 7                       | [SQL](sql/weather_observation_station_7.sql)|
 
 ---
 
