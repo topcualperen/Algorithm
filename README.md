@@ -149,6 +149,7 @@
 | Problem Number | Problem Name                                        | Solution Code                                                            | 
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
 | 175            | Combine Two Tables                                  | [SQL](leetcode-sql/175_CombineTwoTables.sql)                             |
+| 176            | Second Highest Salary                               | [SQL](leetcode-sql/176_SecondHighestSalary.sql)|
 
 ---
 
