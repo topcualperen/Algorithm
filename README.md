@@ -150,6 +150,7 @@
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------|
 | 175            | Combine Two Tables                                  | [SQL](leetcode-sql/175_CombineTwoTables.sql)                             |
 | 176            | Second Highest Salary                               | [SQL](leetcode-sql/176_SecondHighestSalary.sql)|
+| 181            | Employees Earning More Than Their Managers          | [SQL](leetcode-sql/181_EmployeesEarningMoreThanTheirManagers.sql)|
 
 ---
 
